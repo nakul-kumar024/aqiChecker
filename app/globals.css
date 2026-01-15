@@ -1,0 +1,21 @@
+@import "tailwindcss";
+@import "leaflet/dist/leaflet.css";
+
+
+nav{
+    background: #e6fff4;
+background: linear-gradient(99deg, rgba(230, 255, 244, 1) 30%, rgba(17, 99, 69, 1) 80%);
+}
+
+
+
+footer{
+    background: #e6fff4;
+background: linear-gradient(274deg, rgba(230, 255, 244, 1) 30%, rgba(17, 99, 69, 1) 80%);
+}
+
+body{
+    background-color:  #E6FFF4;
+}
+
+
